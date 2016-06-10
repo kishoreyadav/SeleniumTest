@@ -9,6 +9,8 @@ public class App {
 		FileReader fr = new FileReader(f);
 		//this is my second commit 
 		//this will be show only after  my commit
+		///this is my 3rd commit
+		//test the 3rd commit for the diff colour 
 
 	}
 
